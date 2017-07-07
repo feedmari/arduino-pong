@@ -1,0 +1,2 @@
+bool selectionPhase;
+int selectedMode;
