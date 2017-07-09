@@ -19,3 +19,4 @@ Two Arduino Uno are needed since one will be the controller of the game and the 
 
 * **Marco Mancini** - https://www.linkedin.com/in/marco-mancini-6b2969108/
 * **Federico Marinelli** - https://www.linkedin.com/in/feedmari/
+* **Ivan Gorbenko**
